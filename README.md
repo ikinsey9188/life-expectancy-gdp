@@ -64,6 +64,7 @@ This project analyzes the relationship between GDP and life expectancy across si
 ## Author
 - Isaac Kinsey
 - kinseyisaac@gmail.com
+- [Medium Blog Post](https://medium.com/@kinseyisaac/unveiling-the-connection-between-gdp-and-life-expectancy-insights-from-six-nations-9a5c055b7ec4)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
